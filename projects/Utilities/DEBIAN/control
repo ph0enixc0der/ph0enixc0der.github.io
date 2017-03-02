@@ -1,6 +1,6 @@
 Version: 1.0
-Package: modz2014.github.ios-kern-utils
-Maintainer: modz2014
+Package: ph0enixC0der.github.ios-kern-utils
+Maintainer: ph0enixC0der
 Name: kern-utils
 Architecture: iphoneos-arm
 Description: kdump
